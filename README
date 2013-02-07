@@ -1,0 +1,13 @@
+To compile
+make 
+
+To run
+./warmup1 sort [filename]
+
+References and credits
+
+http://stackoverflow.com/questions/122616/how-do-i-trim-leading-trailing-whitespace-in-a-standard-way */
+http://stackoverflow.com/questions/761791/converting-between-local-times-and-gmt-utc-in-c-c
+http://en.wikibooks.org/wiki/Algorithm_Implementation/Sorting/Bubble_sort
+http://www.upv.es/cgi-bin/man2html?cgi_command=strfmon(3C)
+http://www.cplusplus.com/reference/clibrary/ctime/strftime/
